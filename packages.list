@@ -23,6 +23,4 @@ luci-app-syncthing
 luci-i18n-syncthing-zh-cn
 luci-app-samba4
 luci-i18n-samba4-zh-cn
-luci-app-cifs
-luci-i18n-cifs-zh-cn
 bash
