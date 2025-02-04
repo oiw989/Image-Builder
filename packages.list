@@ -27,6 +27,4 @@ luci-app-samba4
 luci-i18n-samba4-zh-cn
 luci-app-cifs
 luci-i18n-cifs-zh-cn
-luci-app-upnp
-luci-i18n-upnp-zh-cn
 bash
