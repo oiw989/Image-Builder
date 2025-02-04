@@ -12,8 +12,6 @@ luci-i18n-vlmcsd-zh-cn
 luci-app-zerotier
 luci-i18n-zerotier-zh-cn
 luci-app-openclash
-luci-app-amlogic
-luci-i18n-amlogic-zh-cn
 luci-app-dockerman
 luci-i18n-dockerman-zh-cn
 luci-app-wolplus
