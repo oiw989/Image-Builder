@@ -18,8 +18,6 @@ luci-i18n-dockerman-zh-cn
 luci-app-wolplus
 luci-app-rclone
 luci-i18n-rclone-zh-cn
-luci-app-alist
-luci-i18n-alist-zh-cn
 luci-app-syncthing
 luci-i18n-syncthing-zh-cn
 luci-app-samba4
