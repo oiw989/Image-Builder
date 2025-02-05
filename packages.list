@@ -9,6 +9,8 @@ kmod-usb-storage
 kmod-usb-storage-extras
 kmod-fs-ntfs
 kmod-fs-vfat
+shadow-useradd
+shadow-userdel
 cfdisk
 ipset
 luci-i18n-firewall-zh-cn
