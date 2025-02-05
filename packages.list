@@ -13,6 +13,4 @@ luci-app-zerotier
 luci-i18n-zerotier-zh-cn
 luci-app-openclash
 luci-app-wolplus
-luci-app-rclone
-luci-i18n-rclone-zh-cn
 bash
