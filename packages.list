@@ -1,4 +1,15 @@
 kmod-rtw88-8822be
+kmod-usb-core
+kmod-scsi-core
+kmod-scsi-generic
+kmod-usb-uhci 
+kmod-usb-ohci
+kmod-usb3 
+kmod-usb-storage
+kmod-usb-storage-extras
+kmod-fs-ntfs
+kmod-fs-vfat
+cfdisk
 ipset
 luci-i18n-firewall-zh-cn
 luci-i18n-opkg-zh-cn
