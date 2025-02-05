@@ -1,4 +1,3 @@
-kmod-rtw88-8822be
 ipset
 luci-i18n-firewall-zh-cn
 luci-i18n-opkg-zh-cn
@@ -13,17 +12,7 @@ luci-i18n-vlmcsd-zh-cn
 luci-app-zerotier
 luci-i18n-zerotier-zh-cn
 luci-app-openclash
-luci-app-dockerman
-luci-i18n-dockerman-zh-cn
 luci-app-wolplus
 luci-app-rclone
 luci-i18n-rclone-zh-cn
-luci-app-syncthing
-luci-i18n-syncthing-zh-cn
-luci-app-alist
-luci-i18n-alist-zh-cn
-luci-app-samba4
-luci-i18n-samba4-zh-cn
-luci-app-diskman
-luci-i18n-diskman-zh-cn
 bash
