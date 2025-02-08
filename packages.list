@@ -14,7 +14,7 @@ shadow-userdel
 cfdisk
 ipset
 luci-i18n-firewall-zh-cn
-luci-i18n-package-manager-zh-cn
+luci-i18n-opkg-zh-cn
 luci-app-autoreboot
 luci-i18n-autoreboot-zh-cn
 luci-app-socat
