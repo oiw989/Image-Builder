@@ -39,4 +39,7 @@ luci-app-samba4
 luci-i18n-samba4-zh-cn
 luci-app-diskman
 luci-i18n-diskman-zh-cn
+luci-app-dockerman
+luci-app-ramfree
+luci-i18n-ramfree-zh-cn
 bash
