@@ -41,4 +41,6 @@ luci-app-diskman
 luci-i18n-diskman-zh-cn
 luci-app-ramfree
 luci-i18n-ramfree-zh-cn
+luci-app-wechatpush
+luci-i18n-wechatpush-zh-cn
 bash
