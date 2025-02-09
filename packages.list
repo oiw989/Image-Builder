@@ -17,4 +17,6 @@ luci-i18n-amlogic-zh-cn
 luci-app-dockerman
 luci-i18n-dockerman-zh-cn
 luci-app-wolplus
+luci-app-wechatpush
+luci-i18n-wechatpush-zh-cn
 bash
