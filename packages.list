@@ -11,8 +11,6 @@ kmod-fs-ntfs
 kmod-fs-vfat
 shadow-useradd
 shadow-userdel
-cfdisk
-ipset
 luci-app-alist
 luci-i18n-alist-zh-cn
 luci-app-autoreboot
