@@ -1,7 +1,7 @@
 name: ImmortalWrt Image Builder
 on:
-  schedule:
-    - cron: "35 12 * * *"
+  push:
+    branches: [ "master" ]
   workflow_dispatch:
 
 env:
