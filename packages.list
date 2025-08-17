@@ -25,6 +25,7 @@ luci-i18n-ramfree-zh-cn
 luci-app-samba4
 luci-i18n-samba4-zh-cn
 luci-app-socat
+luci-i18n-socat-zh-cn
 luci-app-syncthing
 luci-i18n-syncthing-zh-cn
 luci-app-ttyd
@@ -32,6 +33,7 @@ luci-i18n-ttyd-zh-cn
 luci-app-vlmcsd
 luci-i18n-vlmcsd-zh-cn
 luci-app-wechatpush
+luci-i18n-wechatpush-zh-cn
 luci-app-wolplus
 luci-app-zerotier
 luci-i18n-zerotier-zh-cn
